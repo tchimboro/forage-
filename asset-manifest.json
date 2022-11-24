@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/forage/static/css/main.d0d0f1ac.css",
+    "main.js": "/forage/static/js/main.2b6ad952.js",
+    "static/js/787.563fb651.chunk.js": "/forage/static/js/787.563fb651.chunk.js",
+    "index.html": "/forage/index.html",
+    "main.d0d0f1ac.css.map": "/forage/static/css/main.d0d0f1ac.css.map",
+    "main.2b6ad952.js.map": "/forage/static/js/main.2b6ad952.js.map",
+    "787.563fb651.chunk.js.map": "/forage/static/js/787.563fb651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0d0f1ac.css",
+    "static/js/main.2b6ad952.js"
+  ]
+}
